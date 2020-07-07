@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;    /* nežinau, kam jis reikalingas  */
+  font-family: sans-serif;
+}
+
+header {
+  background: rgb(2, 212, 177);
+}
+
+.text-white {
+  color: white;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+h2 {
+  margin-bottom: 0;
+  font-weight: 500;
+}
+
+p {
+  margin-top: 8px;
+}
+
+header p {
+  opacity: 0.5;
+}
